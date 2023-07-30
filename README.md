@@ -33,4 +33,5 @@
 
 ![screencapture-127-0-0-1-5500-cypress-reports-html-index-html-2023-07-30-22_41_53](https://github.com/roshnirifa/CURAHealthcare_using_Cypress/assets/74822231/6201816d-3b69-4f1b-9b95-47d6ac10dc03)
 
-
+## Video
+https://drive.google.com/file/d/1a25zE55MYctWuXtOIa11CzxSMWQfj-dV/view?usp=sharing
